@@ -1,0 +1,2 @@
+    -v "$(pwd)/etc-pihole/:/etc/pihole/:z" \
+    -v "$(pwd)/etc-dnsmasq.d/:/etc/dnsmasq.d/:z" \
